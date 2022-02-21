@@ -1,6 +1,6 @@
 # SmartContractTest
 
-#Got all of this from https://github.com/PatrickAlphaC/nft-mix#prerequisites
+## Got all of this from https://github.com/PatrickAlphaC/nft-mix#prerequisites
 
 This is a repo to work with and use NFTs smart contracts in a python environment, using the Chainlink-mix as a starting point.
 
